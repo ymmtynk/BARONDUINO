@@ -1,6 +1,6 @@
 # BARONDUINO
 多分最小の埋込用ArduinoUno互換機 BARONDUINOの情報
-
+![](https://blog-imgs-133.fc2.com/v/a/g/vagabondworks/IMG_5871.jpg)
 35.56mm x 10.16mm のArduino互換機
 
 ## BARONDUINOの使い方
