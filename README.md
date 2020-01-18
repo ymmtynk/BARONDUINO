@@ -9,6 +9,6 @@
 * BARONDUINO_R2_pin.png         R2のピン機能一覧  
 * README.md                     このファイル  
   
-# 使用方法、外形情報、販売情報など  
+# 使用方法、外形情報、販売方法など  
  [Wiki](https://github.com/ymmtynk/BARONDUINO/wiki)を参照  
   
