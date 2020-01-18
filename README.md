@@ -9,9 +9,6 @@
 * BARONDUINO_R2_pin.png         R2のピン機能一覧  
 * README.md                     このファイル  
   
-# 使用方法、外形情報など  
- Wikiを参照  
+# 使用方法、外形情報、販売情報など  
+ [Wiki](https://github.com/ymmtynk/BARONDUINO/wiki)を参照  
   
-## BARONDUINOの購入方法
-スイッチサイエンスマーケットプレイスで販売してます。  
-→ [埋込用ArduinoUno互換機　BARONDUINO　　\1,584-](https://www.switch-science.com/catalog/5931/)  
